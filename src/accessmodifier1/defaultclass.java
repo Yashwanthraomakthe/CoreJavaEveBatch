@@ -7,7 +7,8 @@ class defaultclass {
 
 	}
 
-	public static void methodtwo() {
+	
+	public static void methodtwoNameUpdated() {
 		System.out.println("This is default class code");
 	}
 
