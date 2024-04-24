@@ -19,5 +19,9 @@ class defaultclass {
 	public static void methodThree() {
 		System.out.println("This is default class code");
 	}
+	
+	public static void methodfour() {
+		System.out.println("This is default class code");
+	}
 
 }
