@@ -7,7 +7,16 @@ class defaultclass {
 
 	}
 
-	public static void methodtwo() {
+	
+	public static void methodtwoNameUpdated() {
+		System.out.println("This is default class code");
+	}
+
+	public static void methodOne() {
+		System.out.println("This is default class code");
+	}
+
+	public static void methodThree() {
 		System.out.println("This is default class code");
 	}
 
