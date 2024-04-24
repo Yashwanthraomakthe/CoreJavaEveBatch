@@ -7,7 +7,8 @@ package accessmodifier1;
 
 	}
 	
-	public static void methodtwo() {
+	public static void methodtwoNameUpdated() {
+		System.out.println("This is default class code");
 		System.out.println("This is default class code");
 	}
 
